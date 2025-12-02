@@ -1,0 +1,12 @@
+.navbar {
+	height: 10vh;
+	background-color: red;
+	width: 100vw;
+	display: flex;
+	align-self: flex-start;
+	justify-self: left;
+}
+
+.Logo {
+	height: 100%;
+}
